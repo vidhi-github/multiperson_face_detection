@@ -1,7 +1,7 @@
 # **AURAVISION- Multiperson Real-Time Face Recognition System**  
 
 ## **Overview**  
-**AURAVISION -** The **Multiperson Real-Time Face Recognition System** is a deep learning-based application designed for real-time face detection and recognition of multiple individuals in a frame. It uses advanced face detection techniques like **MTCNN** for face localization and **DLIB** for face recognition. The system efficiently handles multiframes and batched frames, leveraging GPU acceleration for fast and accurate results.  
+**AURAVISION -** The **Multiperson Real-Time Face Recognition System** is a deep learning-based application designed for real-time face detection and recognition of multiple individuals in a frame. It uses advanced face detection techniques like **MTCNN** for face localization(detection) and **DLIB** for face recognition. The system efficiently handles multiframes and batched frames, leveraging GPU acceleration for fast and accurate results.  
 
 This solution is ideal for applications such as automated attendance systems and surveillance systems, ensuring secure and reliable recognition even in real-time scenarios.  
 
